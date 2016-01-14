@@ -1,3 +1,4 @@
+*.iml
 *.sh
 
 LICENSE.txt
@@ -14,6 +15,7 @@ docs/*
 conf/*
 bin/*
 .gradle/*
+.idea/*
 .settings/*
 run/*
 
